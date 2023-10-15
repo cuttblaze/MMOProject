@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MMOProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\MMOProject\Intermediate\Build\Win64\x64\MMOProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"E:\Unreal Projects\MMOProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MMOProject\MMOProject.init.gen.cpp.obj"
+"E:\Unreal Projects\MMOProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MMOProject\MMOProjectCharacter.gen.cpp.obj"
+"E:\Unreal Projects\MMOProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MMOProject\MMOProjectGameMode.gen.cpp.obj"
+"E:\Unreal Projects\MMOProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MMOProject\MMOProject.cpp.obj"
+"E:\Unreal Projects\MMOProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MMOProject\MMOProjectCharacter.cpp.obj"
+"E:\Unreal Projects\MMOProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MMOProject\MMOProjectGameMode.cpp.obj"
+"E:\Unreal Projects\MMOProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MMOProject\Default.rc2.res"
+/OUT:"E:\Unreal Projects\MMOProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MMOProject\UnrealEditor-MMOProject.lib"

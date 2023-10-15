@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MMOProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MMOProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MMOProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MMOProject">
+      <UniqueIdentifier>{226252C8-C2C6-3168-B366-CA8A6E7AE693}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MMOProject\MMOProject.Build.cs">
+      <Filter>Source\MMOProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MMOProject\MMOProject.cpp">
+      <Filter>Source\MMOProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MMOProject\MMOProject.h">
+      <Filter>Source\MMOProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MMOProject\MMOProjectCharacter.cpp">
+      <Filter>Source\MMOProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MMOProject\MMOProjectCharacter.h">
+      <Filter>Source\MMOProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MMOProject\MMOProjectGameMode.cpp">
+      <Filter>Source\MMOProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MMOProject\MMOProjectGameMode.h">
+      <Filter>Source\MMOProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

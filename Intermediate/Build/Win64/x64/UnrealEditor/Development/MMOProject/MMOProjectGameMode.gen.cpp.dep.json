@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\mmoproject\\intermediate\\build\\win64\\unrealeditor\\inc\\mmoproject\\uht\\mmoprojectgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\mmoproject\\intermediate\\build\\win64\\x64\\mmoprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\mmoproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mmoproject\\definitions.mmoproject.h",
+            "e:\\unreal projects\\mmoproject\\source\\mmoproject\\mmoprojectgamemode.h",
+            "e:\\ue\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\ue\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\ue\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\ue\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\unreal projects\\mmoproject\\intermediate\\build\\win64\\unrealeditor\\inc\\mmoproject\\uht\\mmoprojectgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MMOProject",
+			"Path": "E:\\Unreal Projects\\MMOProject\\Source\\MMOProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MMOProjectEditor",
+			"Path": "E:\\Unreal Projects\\MMOProject\\Source\\MMOProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
